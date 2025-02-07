@@ -1,10 +1,10 @@
-import { About } from "../../../oticadev/src/app/_components/about";
-import { Header } from "../../../oticadev/src/app/_components/header";
-import { Products } from "../../../oticadev/src/app/_components/products";
-import { Brands } from "../../../oticadev/src/app/_components/brands";
-import {Footer} from "../../../oticadev/src/app/_components/footer"
-import { Hero } from "../../../oticadev/src/app/_components/hero"
-import { Services } from "../../../oticadev/src/app/_components/services";
+import { About } from "./about";
+import { Header } from "./header";
+import { Products } from "./products";
+import { Brands } from "./brands";
+import {Footer} from "./footer"
+import { Hero } from "./hero"
+import { Services } from "./services";
 
 export default function Home() {
   return (

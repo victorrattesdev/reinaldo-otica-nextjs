@@ -1,4 +1,4 @@
-import imagelogo from '../../../public/logo_correta_2.png'
+import imagelogo from '../../public/logo_correta_2.png'
 import Image from 'next/image'
 
 export function Header() {

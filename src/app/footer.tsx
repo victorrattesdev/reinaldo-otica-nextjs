@@ -1,5 +1,5 @@
 import { FacebookLogo, InstagramLogo, YoutubeLogo, WhatsappLogo } from '@phosphor-icons/react/dist/ssr'
-import imageLogo from '../../../public/logo_correta_2.png'
+import imageLogo from '../../public/logo_correta_2.png'
 import Image from 'next/image'
 
 export function Footer() {

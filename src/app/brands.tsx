@@ -1,10 +1,10 @@
 
-import espace from '../../../public/logo_espace.png'
-import hoya from '../../../public/logo_hoya.png'
-import kodak from '../../../public/logo_kodak.png'
-import varilux from '../../../public/logo_varilux.jpg'
-import zeiss from '../../../public/logo_zeiss.jpeg'
-import clear from '../../../public/logo_clear.png'
+import espace from '../../public/logo_espace.png'
+import hoya from '../../public/logo_hoya.png'
+import kodak from '../../public/logo_kodak.png'
+import varilux from '../../public/logo_varilux.jpg'
+import zeiss from '../../public/logo_zeiss.jpeg'
+import clear from '../../public/logo_clear.png'
 import Image from 'next/image'
 
 const brands = [

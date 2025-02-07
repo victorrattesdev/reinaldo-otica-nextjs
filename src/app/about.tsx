@@ -1,5 +1,5 @@
 import Image from "next/image"
-import About1 from '../../../public/foto_about.png'
+import About1 from '../../public/foto_about.png'
 import { Check, CheckCheck, MapPin } from "lucide-react"
 import { WhatsappLogo } from "@phosphor-icons/react/dist/ssr"
 export function About() {
