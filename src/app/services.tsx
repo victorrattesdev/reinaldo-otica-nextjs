@@ -8,19 +8,11 @@ import { Button } from '@/components/ui/button'
 const services =[
     {
         title: "Atendimento à domicílio",
-        description: "Não saia do conforto da sua casa, agende um horário que iremos até a sua residência para melhor atendê-lo e apresentar toda nossa variedade de armações disponíveis.",
+        description: "Não saia do conforto da sua casa, consulte a área atendida, agende um horário e iremos até seu trabalho ou residência para melhor atendê-lo e apresentar toda nossa variedade de armações disponíveis.",
         duration:"Agendar um horário",
         price:"",
         icon: <House/>,
         linkText: 'Olá, vi no site sobre agendar uma visita à domicílio para fazer um orçamento e gostaria de mais informações.'
-    },
-    {
-        title: "Óculos pronto em até uma hora",
-        description: "Vindo até nossa loja, você pode pegar os seus oculos pronto em até uma hora. Ideal para aqueles que necessitam com urgência.",
-        duration:"1h",
-        price:"",
-        icon: <Store/>,
-        linkText: 'Olá, vi no site sobre óculos pronto em até uma hora e gostaria de mais informações.'
     },
     {
         title: "Óculos pronto em até uma hora",
@@ -59,7 +51,7 @@ export function Services() {
                         <div className='overflow-hidden' ref={emblaRef}>
                             <div className='flex'>
                                 {services.map((item, index) => (
-                                    <div key={index} className='flex-[0_0_100%] min-w-0 md:flex-[0_0_calc(100%/3)] px-3'>
+                                    <div key={index} className='flex-[0_0_100%] min-w-0 md:flex-[0_0_calc(100%/2)] px-4'>
                                         <article className='bg-zinc-800 text-white rounded-2xl p-6 space-y-4 h-full flex flex-col'>
                                             <div className='flex-1 items-start justify-between'>
                                                 

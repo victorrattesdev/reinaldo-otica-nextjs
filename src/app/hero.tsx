@@ -24,9 +24,10 @@ export function Hero() {
                         </h1>
                        
                         <a 
-                            href="#"
-                            className="bg-green-500 px-5 py-2 rounded-md font-semibold flex items-center justify-center
-                            w-fit text-white gap-2"
+                            href="https://api.whatsapp.com/send?phone=5521994675148&text=Ol%C3%A1,%20Gostaria%20de%20escolher%20um%20%C3%B3culos!"
+                            target='_blank'
+                            className="bg-green-600 px-5 py-2 rounded-md font-semibold flex items-center justify-center
+                            w-fit text-white gap-2 hover:bg-green-500"
                             data-aos="fade-up"
                             >
                             <WhatsappLogo className='w-5 h-5'/>
@@ -34,10 +35,10 @@ export function Hero() {
                         </a>
                         
                         
-                        <div className="mt-8" data-aos="fade-right">
+                        <div className="mt-10" data-aos="fade-right">
                             <p className="text-sm mb-4">
-                                <b className="bg-black text-white px-2 py-1 rounded-md" >5%</b>
-                                de desconto na primeira compra.
+                                
+                                
                             </p>
                         </div>
                     </div>

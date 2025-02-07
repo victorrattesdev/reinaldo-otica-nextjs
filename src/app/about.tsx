@@ -22,26 +22,26 @@ export function About() {
                     <div className="space-y-6 mt-10">
                         <h2 className="text-3xl font-bold" data-aos="fade-right">Atendemos você com rapidez e excelência</h2>
                         <p data-aos="fade-right">
-                            Nós da Rei Ótica acreditamos que todos merecem experimentar a alagria da visão clara sem gastar
-                            fortunas. É por isso que nos comprometemos a oferecer óculos de grau de óculos de sol de 
-                            qualidade a preços acessíveis, respaldados por nossa experiência no setor óptico. Atendemos
-                            com rapidez, qualidade e uma ampla seleção de armações para ajudá-lo a encontrar a 
-                            solução de visão perfeita para duas necessidades e estilo de vida.
+                        Na Rei Ótica, consideramos que todos merecem a alegria de enxergar sem precisar gastar uma fortuna.
+                        Por isso, oferecemos óculos de grau e de sol com qualidade a preços acessíveis, 
+                        combinando experiência no setor óptico com um atendimento rápido e eficiente. 
+                        Nossa ampla seleção de armações garante que você encontre a opção ideal para suas necessidades 
+                        e estilo de vida
                         </p>
 
                         <ul className="space-y-4" data-aos="fade-right">
                             <li className="flex items-center gap-2">
                                 <Check className="text-red-500"/>
-                                Atendimento à domicílio
+                                Atendimento À Domicílio
                             </li>
                             <li className="flex items-center gap-2">
                                 <Check className="text-red-500"/>
-                                +20 Anos de experiência no mercado
+                                +20 Anos de Experiência no Mercado
                             </li>
                             
                             <li className="flex items-center gap-2">
                                 <Check className="text-red-500"/>
-                                Pagamento facilitado
+                                Pagamento Facilitado
                             </li>
                         </ul>
 

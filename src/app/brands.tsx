@@ -46,6 +46,8 @@ export function Brands() {
 
             </div>
 
-        </section>
+
+
+        </section>  
     )
 }

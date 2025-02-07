@@ -7,8 +7,7 @@ export function Header() {
             <div className='container mx-auto px-4'>
 
                 <div className=''>
-                    <div className=''>
-                            <div className='p-1 flex justify-items-start'>
+                            <div className='p-1 flex'>
                                 <Image
                                 src={imagelogo}
                                 alt='logo'
@@ -21,8 +20,6 @@ export function Header() {
                                 }}
                                 className='object-contain'/>
                             </div>
-                    </div>
-
                 </div>
                 
 
