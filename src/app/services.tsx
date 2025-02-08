@@ -8,7 +8,7 @@ import { Button } from '@/components/ui/button'
 const services =[
     {
         title: "Atendimento à domicílio",
-        description: "Não saia do conforto da sua casa, consulte a área atendida, agende um horário e iremos até seu trabalho ou residência para melhor atendê-lo e apresentar toda nossa variedade de armações disponíveis.",
+        description: "Não saia do conforto da sua casa ou trabalho. Consulte a área atendida, agende um horário e iremos até você para apresentar toda nossa variedade de armações disponíveis e melhor atendê-lo.",
         duration:"Agendar um horário",
         price:"",
         icon: <House/>,

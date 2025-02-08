@@ -143,9 +143,9 @@ export function Products() {
 
                                 <div className='flex text-center items-center justify-center mt-5 flex-col mb-2 font-sans'>
                                     <a 
-                                        href='https://api.whatsapp.com/send?phone=5521994675148' 
+                                        href='https://api.whatsapp.com/send?phone=5521994675148&text=Ol%C3%A1,%20Gostaria%20de%20escolher%20um óculos!' 
                                         target='_blank' 
-                                        className='text-gray-500 font-semibold text-sm my-1 hover:text-pink-800'>
+                                        className='text-gray-600 font-semibold text-sm my-1 hover:text-[#d9ba01]'>
                                         {item.name}
                                     </a>
 
