@@ -27,7 +27,7 @@ export function Footer() {
                         <h3 className='text-2xl font-semibold mb-4 text-[#d9ba01]'>Contatos</h3>                        
                             <p className='mb-2'><b>Email: </b>reioticaoficial@gmail.com</p>
                             <p className='mb-2'><b>Telefone: </b>(21) 99467-5148</p>
-                            <p><b>Endereço: </b>Rua das Flores, Centro | Rio de Janeiro</p>
+                            <p><b>Endereço: </b>Rua Gonçalves Dias, 89, Centro | Rio de Janeiro</p>
                     </div>
 
                     <div>

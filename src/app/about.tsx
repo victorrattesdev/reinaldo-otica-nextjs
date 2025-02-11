@@ -55,7 +55,7 @@ export function About() {
                             </a>
 
                             <a 
-                            href="https://www.google.com/maps/uv?pb=!1s0x997f0013cf5283%3A0xda7c1ac0e760a752!3m1!7e115!4s%2Fmaps%2Fplace%2FRua%2Bdas%2Bflores%2Bcentro%2Bda%2Bcidade%2F%40-22.9037461%2C-43.1796362%2C3a%2C75y%2C72.28h%2C90t%2Fdata%3D*213m4*211e1*213m2*211slODYwBWpIFix4CARDxjJHQ*212e0*214m2*213m1*211s0x997f0013cf5283%3A0xda7c1ac0e760a752%3Fsa%3DX%26ved%3D2ahUKEwitwrnIg66LAxUtD7kGHchiG80Qpx96BAhCEAA!5sRua%20das%20flores%20centro%20da%20cidade%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e2!2slODYwBWpIFix4CARDxjJHQ&cr=le_a7&hl=en&ved=1t%3A206134&ictx=111"
+                            href="https://maps.app.goo.gl/nK3W2xXb5P2GAgyN9"
                             target="_blank"
                             className="bg-zinc-800 text-white flex items-center justify-center w-fit gap-2 px-4 py-2 rounded-md hover:bg-[#d9ba01] hover:text-black">
                                 <MapPin className="w-5 h-5 text-white hover:text-black"/>
